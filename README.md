@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @handzsukangoding
+- 👋 Hi, I’m @handz
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning c++ and python
 - 😄 Pronouns: he/him
